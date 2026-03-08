@@ -17,7 +17,7 @@ This is a professional CLI tool designed for developers and data analysts who ne
 
 ### 🚀 Get the Full Version
 To keep this tool updated and support future development, the full executable is available here:
-👉 [Get it on Gumroad for only $9 USD]([CSV-Fixer](https://seguravibes4.gumroad.com/l/arsgm))
+👉 [Get it on Gumroad for only $5 USD](https://seguravibes4.gumroad.com/l/arsgm)
 
 ---
 *Developed by Ulises Segura - Software Developer*
